@@ -26,16 +26,20 @@ Tell me your story
 More commands = more surprises. Seriously, try typing like you're texting someone who codes in Python and quotes Tony Stark.
 
 🧠 Who's Behind This?
-"Think technical problem-solver meets business strategist – I can code a multi-modal AI assistant in the morning and pitch a SaaS idea by lunch."
-Hi, I’m Shaun — a data scientist by degree, self-taught across Python, AI/ML, business, and design. I’ve built:
+Hi, I’m Shaun — a data scientist by degree, self-taught across Python, AI/ML, business and design.
+I’ve built:
 
 🤖 Explainable AI object classifiers
+
 📲 Social media automation bots
+
 🧠 An AI debate platform where multiple models tackle complex questions
+
 🚀 Ventures in ed-tech, gaming, and consumer products
 Currently building in stealth, investing on the side, and always looking to connect with sharp, curious minds.
 
 🎭 Personality Download
+
 🧮 Finance-minded adrenaline junkie
 💼 Builds in silence, launches with impact
 👨‍👩‍👧 Family-first, freedom-focused
@@ -49,6 +53,7 @@ Fork it, explore the code and build your own CLI portfolio
 Use it to reach out — ideas, collabs or just talk shop
 
 🔧 Coming Soon
+
 More CLI Easter eggs 🎁
 Terminal-based Q&A with project demos
 Integration with GitHub & LinkedIn
@@ -57,4 +62,3 @@ Easter-egg “AI pitch mode” — let the CLI pitch you an idea
 🧬 Why?
 
 Because your portfolio should feel like you.
-And sometimes, that means throwing in a dark joke, a SaaS pitch, and a little Tony Stark energy.
