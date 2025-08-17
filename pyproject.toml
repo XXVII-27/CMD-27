@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=45", "wheel", "setuptools_scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shaun-portfolio"
+dynamic = ["version"]
+description = "Interactive terminal portfolio experience"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Shaun", email = "bladeking732@gmail.com"}]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8", 
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+]
+requires-python = ">=3.7"
+dependencies = []
+
+[project.scripts]
+shaun = "shaun_portfolio.main:main"
+
+[tool.setuptools_scm]
+write_to = "shaun_portfolio/_version.py"
